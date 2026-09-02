@@ -6,14 +6,14 @@ This repository contains the implementation of various algorithmic design techni
 
 ## 📊 Experiments Overview
 
-| Exp No. | Experiment Title / Objective | Design Techniques / Approaches | Status | Source Code |
-| :---: | :--- | :--- | :---: | :---: |
-| **1** | **Search Algorithms**<br>*Determine time required for various $n$ and plot time vs $n$ graph.* | i) Brute Force<br>ii) Divide and Conquer | 🟡 In Progress | [View Code](./exp1/) |
-| **2** | **Sorting Programs**<br>*Determine sorting time for different values of $n$ and plot a graph.* | i) Brute Force<br>ii) Divide and Conquer<br>iii) Decrease and Conquer<br>iv) Input-Enhancement | 🔴 Pending | [View Code](./exp2/) |
-| **3** | **0/1 Knapsack Problem** | i) Greedy Technique<br>ii) Dynamic Programming | 🔴 Pending | [View Code](./exp3/) |
-| **4** | **Single Source Shortest Paths** | i) Greedy<br>ii) Dynamic Programming | 🔴 Pending | [View Code](./exp4/) |
-| **5** | **Warshall’s & Floyd’s Algorithm** | - Transitive Closure & All-Pairs Shortest Path | 🔴 Pending | [View Code](./exp5/) |
-| **6** | **String Matching Algorithms** | i) Brute-Force<br>ii) Input-Enhancement | 🔴 Pending | [View Code](./exp6/) |
+| Exp No. | Experiment Title / Objective | Design Techniques / Approaches |
+| :---: | :--- | :--- |
+| **1** | **Search Algorithms**<br>*Determine time required for various $n$ and plot time vs $n$ graph.* | i) Brute Force<br>ii) Divide and Conquer |
+| **2** | **Sorting Programs**<br>*Determine sorting time for different values of $n$ and plot a graph.* | i) Brute Force<br>ii) Divide and Conquer<br>iii) Decrease and Conquer<br>iv) Input-Enhancement |
+| **3** | **0/1 Knapsack Problem** | i) Greedy Technique<br>ii) Dynamic Programming |
+| **4** | **Single Source Shortest Paths** | i) Greedy<br>ii) Dynamic Programming |
+| **5** | **Warshall’s & Floyd’s Algorithm** | - Transitive Closure & All-Pairs Shortest Path |
+| **6** | **String Matching Algorithms** | i) Brute-Force<br>ii) Input-Enhancement |
 
 ---
 
